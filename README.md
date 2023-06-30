@@ -11,7 +11,7 @@
 - 💬 Ask me about **React.js, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **sa06ti12@gmail.com**
-- All of my projects are available at https://sagar-0612.github.io/
+- All of my projects are available at https://Sagar-0612.github.io/
   
 - ⚡ Fun fact **I am funny!!!**
 
